@@ -14,6 +14,7 @@ The following features are also implemented, with more to come:
 * Double tap SPACE key to automatically add a ". " at the end of a sentence
 * Double tap SHIFT key to activate caps lock, triple tap reverts to no shift
 * Keyboard letters change case when SHIFT key is activated
+* SHIFT deactivates automatically (unless caps lock is on)
 * Numbers and punctuation can be accessed by pressing '123', symbols can be accessed by pressing '#+='
 * All keys functional, including DELETE, RETURN, and GLOBE keys
 
