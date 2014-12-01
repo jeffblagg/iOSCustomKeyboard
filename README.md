@@ -20,3 +20,7 @@ The following features are also implemented, with more to come:
 
 <p align="center">
 <img src="http://i36.photobucket.com/albums/e50/chilldog77/d5ea89a2-fa6d-4dc6-b170-ee75bb75d463_zpsd37784d8.png">&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://i36.photobucket.com/albums/e50/chilldog77/4e4a30db-a421-46c1-9dca-39663329c74b_zps22195c8a.png"></p>
+
+## License
+
+This project is free to use for any purpose, including commercially, with no attribution required.
