@@ -2,6 +2,7 @@
 
 <p align="center">
 <img src="http://i36.photobucket.com/albums/e50/chilldog77/4363eecf-32f0-4c8a-ae73-5ffa0689ddf1_zps230ffed6.png">
+
 </p>
 
 Written in Objective-C and using storyboards and autolayout, this universal keyboard template is a complete starter kit for anyone looking to create a custom keyboard. All basic keys have been created, and the keyboard is switchable between number and symbol modes in the same manner as the system keyboard.
