@@ -14,18 +14,18 @@
 }
 
 //keyboard rows
-@property (nonatomic, strong) IBOutlet UIView *numbersRow1View;
-@property (nonatomic, strong) IBOutlet UIView *numbersRow2View;
-@property (nonatomic, strong) IBOutlet UIView *symbolsRow1View;
-@property (nonatomic, strong) IBOutlet UIView *symbolsRow2View;
-@property (nonatomic, strong) IBOutlet UIView *numbersSymbolsRow3View;
+@property (nonatomic, weak) IBOutlet UIView *numbersRow1View;
+@property (nonatomic, weak) IBOutlet UIView *numbersRow2View;
+@property (nonatomic, weak) IBOutlet UIView *symbolsRow1View;
+@property (nonatomic, weak) IBOutlet UIView *symbolsRow2View;
+@property (nonatomic, weak) IBOutlet UIView *numbersSymbolsRow3View;
 
 //keys
 @property (nonatomic, strong) IBOutletCollection(UIButton) NSArray *letterButtonsArray;
-@property (nonatomic, strong) IBOutlet UIButton *switchModeRow3Button;
-@property (nonatomic, strong) IBOutlet UIButton *switchModeRow4Button;
-@property (nonatomic, strong) IBOutlet UIButton *shiftButton;
-@property (nonatomic, strong) IBOutlet UIButton *spaceButton;
+@property (nonatomic, weak) IBOutlet UIButton *switchModeRow3Button;
+@property (nonatomic, weak) IBOutlet UIButton *switchModeRow4Button;
+@property (nonatomic, weak) IBOutlet UIButton *shiftButton;
+@property (nonatomic, weak) IBOutlet UIButton *spaceButton;
 
 @end
 
